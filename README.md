@@ -12,7 +12,7 @@ This embedded project features dynamic piece rotation, full-line detection with 
 
 | Hardware Assembly | 8x32 Matrix Grid & Scoreboard |
 | :---: | :---: |
-| ![Hardware Setup](Assets/Image1.jpeg) | ![Gameplay Display](Assets/Image2y.jpeg) |
+| ![Hardware Setup](Assets/Image1.jpeg) | ![Gameplay Display](Assets/Image2.jpeg) |
 
 ---
 
