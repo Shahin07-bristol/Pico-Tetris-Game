@@ -8,7 +8,9 @@ This embedded project features dynamic piece rotation, full-line detection with 
 
 ## 🕹️ Gameplay Demo & Hardware Setup
 
-*(Upload your build images or demo video to GitHub and place them here!)*
+### 🎥 Live Gameplay Demo
+
+![Pico Tetris Demo](Assets/Video.mp4)
 
 | Hardware Assembly | 8x32 Matrix Grid & Scoreboard |
 | :---: | :---: |
